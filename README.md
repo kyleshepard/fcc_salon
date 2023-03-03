@@ -1,2 +1,4 @@
 # fcc_salon
-Relational Database Certification Submission - Salon
+freeCodeCamp World Cup Database submisson for Relational Database Certification
+
+[Link to Description](https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler)
